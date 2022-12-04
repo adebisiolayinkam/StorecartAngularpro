@@ -1,0 +1,58 @@
+{
+  "seller": [
+    {
+      "name": "Adebisi Olayinka",
+      "email": "adeola@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Adebisi Adewale",
+      "email": "adewale@gmail.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "tony",
+      "password": "abc@123",
+      "email": "tony@test.com",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "id": 5
+    },
+    {
+      "name": "abcd",
+      "email": "abcd@gmail.com",
+      "password": "abcd",
+      "id": 6
+    },
+    {
+      "name": "dayo",
+      "password": "abc@123",
+      "email": "dayo@test.com",
+      "id": 7
+    },
+    {
+      "name": "sheriff",
+      "password": "abc@123",
+      "email": "sheriff@test.com",
+      "id": 8
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 9
+    }
+  ]
+}
