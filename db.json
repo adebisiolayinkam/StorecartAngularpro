@@ -54,5 +54,25 @@
       "email": "",
       "id": 9
     }
+  ],
+  "products": [
+    {
+      "name": "iPhone 14",
+      "price": "250000",
+      "category": "mobile",
+      "color": "black",
+      "description": "a iPhone product",
+      "image": "https://www.koodomobile.com/sites/default/files/styles/phone_listing_thumb/public/iphone_14_blue_pdp_image_position-1a_caen.png?itok=HZRzvoYy",
+      "id": 1
+    },
+    {
+      "name": "Samsung ",
+      "price": "159000",
+      "category": "mobile",
+      "color": "black",
+      "description": "A Samsung product",
+      "image": "https://www.koodomobile.com/sites/default/files/styles/phone_listing_thumb/public/iphone_14_blue_pdp_image_position-1a_caen.png?itok=HZRzvoYy",
+      "id": 2
+    }
   ]
 }

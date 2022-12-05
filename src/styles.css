@@ -33,3 +33,7 @@ width: 300px;
 .error-p{
     color: red;
 }
+
+.message-p{
+    color: green;
+}
