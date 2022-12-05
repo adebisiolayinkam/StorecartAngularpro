@@ -66,12 +66,12 @@
       "id": 1
     },
     {
-      "name": "Samsung ",
+      "name": "Dell Laptop",
       "price": "159000",
-      "category": "mobile",
-      "color": "black",
-      "description": "A Samsung product",
-      "image": "https://www.koodomobile.com/sites/default/files/styles/phone_listing_thumb/public/iphone_14_blue_pdp_image_position-1a_caen.png?itok=HZRzvoYy",
+      "category": "Laptop",
+      "color": "Black",
+      "description": "A good product",
+      "image": "https://slickmobile.com.ng/wp-content/uploads/2021/10/products-dell_laptop_back.jpg",
       "id": 2
     }
   ]
